@@ -1,0 +1,4 @@
+Schedule and Deliverables:
+    Design and implement one unique enemy — Wed 9pm (4 hours)
+    Design and implement a second unique enemy — Thursday 5pm (4 hours)
+    Test effectiveness of two new enemies in the world — Thursday 9pm (2 hours)

@@ -1,0 +1,3 @@
+Schedule and deliverable:
+	Set up character controller for tail boy: move and jump (1 hr)
+	Set up attacks for tailboy (2 hrs)

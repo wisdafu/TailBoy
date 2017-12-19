@@ -1,0 +1,3 @@
+Come up with puzzle functions and concepts to implement -- Wed 10/25 5pm (estimate: 1hr)
+Create puzzle layout and objects to use -- Wed 10/25 7pm ( estimate: 2hr)
+Create object collision hooks and object movement physics -- Wed 10/25 12PM (estimate: 2hr)

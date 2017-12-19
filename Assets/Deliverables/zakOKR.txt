@@ -1,0 +1,6 @@
+Zak's List of Deliverables for Prototype
+-----------------------------------------
+
+* Design level layout with areas delineated for puzzles, traps (1 hour)
+* Create basic terrain mesh, texture for first level (1-2 hours)
+* Try to create a basic, non-animated Tail Boy mockup for protyping (4 hours)
